@@ -1,0 +1,5 @@
+jupytext --to markdown ej_notebook.ipynb
+
+jupytext --sync ej_notebook.ipynb
+
+jupytext --to notebook notebook.md
